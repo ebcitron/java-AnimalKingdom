@@ -40,3 +40,4 @@ public void setName(String name) {
 public abstract String move();
 public abstract String breath();
 public abstract String rep();
+}
